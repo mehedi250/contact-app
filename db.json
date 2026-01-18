@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "abc@gmail.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, Cityville, ST 12345",
+      "id": "1"
+    },
+    {
+      "first_name": "Sir",
+      "last_name": "Shawon",
+      "email": "mhshawon250@gmail.com",
+      "phone": "01689017897",
+      "address": "House 77, 2nd floor (Orangetoolz), Road 13, Uttara 10, Dhaka",
+      "id": "d-FO0Q-"
+    },
+    {
+      "first_name": "Leo",
+      "last_name": "Messi",
+      "email": "messi@gmail.com",
+      "phone": "016890323323",
+      "address": "USA",
+      "id": "fgvViLt"
+    },
+    {
+      "first_name": "Mehedi",
+      "last_name": "Shawon",
+      "email": "mhshawon250@gmail.com",
+      "phone": "01689017897",
+      "address": "House 77, 2nd floor (Orangetoolz), Road 13, Uttara 10, Dhaka",
+      "id": "uiRQozw"
+    }
+  ]
+}

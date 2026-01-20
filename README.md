@@ -3,7 +3,7 @@
 ### Name : Md. Mehedi Hasan Shawon
 
 ### Email: mhshawon250@gmail.com
-Live url: https://696ca4e9549c29382cd4cbbd--contact-appsss.netlify.app
+Live url: [https://contact-appsss.netlify.app)
 
 # 📇 Contact Management App (React + JSON Server)
 
